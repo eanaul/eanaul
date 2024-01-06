@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 🤘🏻
 
 My name **Reyhan Aulia Treeana**.<br>
 
