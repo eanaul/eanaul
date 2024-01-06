@@ -1,8 +1,8 @@
 ### Hello there 🤘🏻
 
-My name **Reyhan Aulia Treeana**.<br>
+My name is **Reyhan Aulia Treeana**.<br>
 
-I'm a **Software Engineer** and also a **Backend Web Developer**<br>
+I'm a **Software Engineer** and also a **Backend Web Developer**.<br>
 
 I'm very enthusiastic about developing innovations that can make a positive impact on people's live.<br>
 
