@@ -1,6 +1,6 @@
 ### Hello there 🤘🏻
 
-My name is **Reyhan Aulia Treeana**.<br>
+My name is **Muhammad Reyhan Aulia Treeana**.<br>
 
 I'm a **Software Engineer** and also a **Backend Web Developer**.<br>
 
