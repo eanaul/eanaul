@@ -16,6 +16,9 @@ Get in touch [Linkedin](https://www.linkedin.com/in/reyhan-aulia-treeana-24063a2
 </a>
 </p>
 
+```javascript
+const hello = "Rehan Aulia"
+```
 <!--
 **eanaul/eanaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
