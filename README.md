@@ -4,7 +4,7 @@ My name is **Muhammad Reyhan Aulia Treeana**.<br>
 
 I'm a **Software Engineer** and also a **Backend Web Developer**.<br>
 
-Currently learning Java and SpringBoot.
+Currently learning **Java** and **SpringBoot**.
 
 I'm very enthusiastic about developing innovations that can make a positive impact on people's live.<br>
 
