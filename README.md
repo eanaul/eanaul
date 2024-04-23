@@ -2,7 +2,7 @@
 
 My name is **Muhammad Reyhan Aulia Treeana**.<br>
 
-I'm a **Software Engineer** and also a **Backend Web Developer**.<br>
+I'm a **Software Engineer** and also a **Backend Developer**.<br>
 
 Currently learning **Java** and **SpringBoot**.
 
